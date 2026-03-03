@@ -13,3 +13,17 @@ Academically, I’ve built a strong foundation—earning my BSc. in Chemistry, M
 Born a Maritz, I carry the legacy of my maiden name with pride. Through marriage, I’ve joined the Prinsloo family, continuing my journey with new roots and deeper connections.
 I am many things—but above all, I am a lifelong learner, a solver of puzzles, and a nurturer of growth.
 
+
+Colour Palette:
+Primary colour - Blue
+- Deep Navy Blue → for authority, stability, and professionalism.
+- Medium Corporate Blue → for clarity and trustworthiness.
+- Light Sky Blue → for openness and approachability.
+- Soft Blue-Grey → for balance and subtlety.
+
+Secondary colour - Green
+Green
+- Forest Green → for growth, resilience, and grounding.
+- Emerald Green → for energy and renewal.
+- Fresh Mint Green → for creativity and freshness.
+- Soft Sage Green → for calmness and harmony.
