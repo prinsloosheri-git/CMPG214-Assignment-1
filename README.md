@@ -28,3 +28,12 @@ Secondary colour - Green
 - Emerald Green → for energy and renewal.
 - Fresh Mint Green → for creativity and freshness.
 - Soft Sage Green → for calmness and harmony.
+
+Visual representations:
+- Chess pieces → Problem solver
+- Book → A scholar
+- Abacus → Math and science
+- Tree → Nurturer of growth
+- My family → Connections
+- Leaves → My love for the outdoors and nature
+- Pentagon Shield → The five main concepts that I identify with
