@@ -10,7 +10,7 @@ Born a Maritz, I carry the legacy of my maiden name with pride. Through marriage
 I am many things—but above all, I am a lifelong learner, a solver of puzzles, and a nurturer of growth.
 
 PASSIONS
-I thrive on logic and challenge: mathematics is my passion, and problem-solving is my playground. Whether I’m immersed in a gripping series or conquering quests in computer games, I find joy in both stories and strategy.
+Logic and challenge fuel me—mathematics is my passion, and problem-solving is my playground. I find joy in gripping stories, whether through a binge-worthy series or the strategy of conquering quests in computer games. At the same time, I have a deep love for drawing and creativity, where my perfectionist streak shines as I refine every detail. Together, these pursuits balance precision with imagination, making both analysis and artistry part of who I am.
 
 ACADEMIC JOURNEY
 Academically, I’ve built a strong foundation—earning my BSc. in Chemistry, Mathematics, and Applied Mathematics with Physical Sciences, followed by a PGCE to share my love of learning. Now, I’m excited to complete my BSc. in IT, expanding my horizons into the digital world.
