@@ -18,19 +18,17 @@ Academically, I’ve built a strong foundation—earning my BSc. in Chemistry, M
 DESIGN CHOICES
 Colour Palette:
 Primary colour - Blue
-- Deep Navy Blue → for authority, stability, and professionalism.
-- Medium Corporate Blue → for clarity and trustworthiness.
+- Deep Blue → for authority, stability, and professionalism.
+- Medium/Corporate Blue → for clarity and trustworthiness.
 - Light Sky Blue → for openness and approachability.
-- Soft Blue-Grey → for balance and subtlety.
 
 Secondary colour - Green
-- Forest Green → for growth, resilience, and grounding.
-- Emerald Green → for energy and renewal.
-- Fresh Mint Green → for creativity and freshness.
-- Soft Sage Green → for calmness and harmony.
+- Forest/Grass Green → for growth, resilience, and grounding.
+- Dark/Emerald Green → for energy and renewal.
+- Fresh Mint/Lime Green → for creativity and freshness.
 
 Visual representations:
-- Chess pieces → Problem solver
+- Chess pieces → Problem solver, logic and challenge
 - Book → A scholar
 - Abacus → Math and science
 - Tree → Nurturer of growth
